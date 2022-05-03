@@ -1,0 +1,20 @@
+*{
+    margin: 1px;;
+    padding: 1px;
+}
+.horizontal{
+    float: left;
+    
+    margin-right: 10px;
+    padding: 20px;
+    display: inline;
+    margin-right: 15px;
+    line-height: 15;
+    text-align: center;
+  
+}
+.lista-nav{
+    list-style-type: none;
+    text-align: center;
+    
+}
